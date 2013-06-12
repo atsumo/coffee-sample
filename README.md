@@ -1,4 +1,6 @@
 coffee-sample
 =============
 
-study coffee script
+study coffee script 
+
+npm install coffee-script
